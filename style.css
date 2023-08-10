@@ -1,0 +1,34 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 10px;
+}
+
+p {
+  text-align: center;
+}
+
+#hero {
+  display: flex;
+  max-width: 100%;
+  height: auto;
+  width: 200px;
+  height: 150px;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#logo {
+  position: fixed;
+  width: 75px;
+  float:left;
+  margin-top:10px;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+}
